@@ -1,0 +1,31 @@
+{
+  "id": 4,
+  "attributes": {
+    "tytul": "Kasandry",
+    "podtytul": " ",
+    "opis": "Centralnym motywem cyklu jest postać Kasandry, królewny trojańskiej.\nOd jej imienia utworzono nazwę syndromu, który – jak pisze Rebecca Solnit –\noznacza „dziewczynę, która mówi prawdę, ale nikt jej nie wierzy”.\nKasandry powstały jako wyraz mojej niezgody na nienawiść wobec osób, któ-\nrych spostrzeżenia burzą status quo. W mojej pracy, przedstawiając mikrohi-\nstorie odważnych, którzy i które sprzeciwiają się mimo wszystko, szczególnie\nzależy mi na nawiązaniu do zjawiska uciszania i podważania narracji (w szcze-\ngólności pochodzących od narratorek).",
+    "createdAt": "2025-05-28T19:13:55.151Z",
+    "updatedAt": "2025-05-28T19:14:43.273Z",
+    "publishedAt": "2025-05-28T19:14:43.271Z",
+    "locale": "pl",
+    "obrazy": {
+      "data": []
+    },
+    "url": {
+      "data": {
+        "id": 3,
+        "attributes": {
+          "url": "kasandry",
+          "createdAt": "2023-11-30T12:19:01.590Z",
+          "updatedAt": "2023-12-04T19:33:42.066Z",
+          "publishedAt": "2023-11-30T12:19:04.346Z",
+          "locale": "pl",
+          "tytul": "Kasandry"
+        }
+      }
+    },
+    "localizations": {
+      "data": []
+    }
+  }
+}

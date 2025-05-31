@@ -1,0 +1,81 @@
+{
+  "id": 2,
+  "attributes": {
+    "tytul": "They ask, and I cry louder",
+    "data": "23-29.04.22",
+    "lokalizacja": "Future Unfuture Gallery, Warsaw",
+    "createdAt": "2023-12-07T20:37:16.352Z",
+    "updatedAt": "2023-12-08T07:26:23.992Z",
+    "publishedAt": "2023-12-07T20:38:23.312Z",
+    "locale": "en",
+    "obrazy": {
+      "data": [
+        {
+          "id": 6,
+          "attributes": {
+            "tytul": "horizontal",
+            "image_url": "https://www.shutterstock.com/shutterstock/photos/2118007748/display_1500/stock-photo-art-watercolor-and-acrylic-smear-blot-interior-painting-abstract-texture-color-stain-horizontal-2118007748.jpg",
+            "createdAt": "2023-12-08T07:25:54.915Z",
+            "updatedAt": "2024-09-03T16:25:40.400Z",
+            "publishedAt": "2023-12-08T07:26:45.216Z",
+            "locale": "en",
+            "wysokosc": null
+          }
+        },
+        {
+          "id": 2,
+          "attributes": {
+            "tytul": "Surviving strategies",
+            "image_url": "https://junaveestudio.com/wp-content/uploads/2020/05/painting1.jpg",
+            "createdAt": "2023-11-30T11:28:21.090Z",
+            "updatedAt": "2023-11-30T11:28:22.108Z",
+            "publishedAt": "2023-11-30T11:28:22.101Z",
+            "locale": "en",
+            "wysokosc": null
+          }
+        },
+        {
+          "id": 4,
+          "attributes": {
+            "tytul": "smthing",
+            "image_url": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQAQ7Jly3B3QSC59rTu7DHyNKrSDm8qeau_KARIre4xtE8iLv6VzHmJxjNwGXOfVZFamoyKw-y-Yj2cZNVR15M",
+            "createdAt": "2023-12-07T21:04:40.008Z",
+            "updatedAt": "2023-12-07T21:04:54.634Z",
+            "publishedAt": "2023-12-07T21:04:54.627Z",
+            "locale": "en",
+            "wysokosc": null
+          }
+        }
+      ]
+    },
+    "url": {
+      "data": {
+        "id": 2,
+        "attributes": {
+          "url": "they-ask-me-and-i-cry",
+          "tytul": "They ask me and I cry",
+          "createdAt": "2023-12-05T18:16:37.378Z",
+          "updatedAt": "2023-12-05T18:17:14.469Z",
+          "publishedAt": "2023-12-05T18:17:14.467Z",
+          "locale": "en"
+        }
+      }
+    },
+    "localizations": {
+      "data": [
+        {
+          "id": 1,
+          "attributes": {
+            "tytul": "Pytają, a ja płaczę rzewniej",
+            "data": "23-29.04.22",
+            "lokalizacja": "Galeria Przyszła Niedoszła, Warszawa",
+            "createdAt": "2023-12-07T20:36:24.027Z",
+            "updatedAt": "2023-12-08T07:26:24.031Z",
+            "publishedAt": "2023-12-07T20:36:48.951Z",
+            "locale": "pl"
+          }
+        }
+      ]
+    }
+  }
+}

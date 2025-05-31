@@ -1,0 +1,79 @@
+{
+  "data": {
+    "id": 1,
+    "attributes": {
+      "image_url": "https://raw.githubusercontent.com/triangularvomit/portfolio-pliki/refs/heads/main/tree%20that%20cannot.png",
+      "createdAt": "2023-11-13T16:31:34.901Z",
+      "updatedAt": "2025-05-31T17:38:12.799Z",
+      "publishedAt": "2023-11-13T16:31:37.648Z",
+      "locale": "pl",
+      "prace_urle": {
+        "data": [
+          {
+            "id": 1,
+            "attributes": {
+              "url": "pod-zelazna-kopula",
+              "createdAt": "2023-11-28T17:42:10.675Z",
+              "updatedAt": "2025-05-28T18:16:08.701Z",
+              "publishedAt": "2023-11-28T17:43:24.431Z",
+              "locale": "pl",
+              "tytul": "Pod Żelazną Kopułą"
+            }
+          },
+          {
+            "id": 5,
+            "attributes": {
+              "url": "nadzieja-w-mroku",
+              "createdAt": "2025-05-28T19:00:51.231Z",
+              "updatedAt": "2025-05-28T19:00:52.007Z",
+              "publishedAt": "2025-05-28T19:00:52.006Z",
+              "locale": "pl",
+              "tytul": "Nadzieja w mroku"
+            }
+          },
+          {
+            "id": 3,
+            "attributes": {
+              "url": "kasandry",
+              "createdAt": "2023-11-30T12:19:01.590Z",
+              "updatedAt": "2023-12-04T19:33:42.066Z",
+              "publishedAt": "2023-11-30T12:19:04.346Z",
+              "locale": "pl",
+              "tytul": "Kasandry"
+            }
+          }
+        ]
+      },
+      "widoki_wystaw_urle": {
+        "data": [
+          {
+            "id": 1,
+            "attributes": {
+              "url": "pytaja-a-ja-placze",
+              "tytul": "Pytają, a ja płaczę rzewniej",
+              "createdAt": "2023-12-05T18:16:12.948Z",
+              "updatedAt": "2023-12-05T18:16:40.946Z",
+              "publishedAt": "2023-12-05T18:16:40.941Z",
+              "locale": "pl"
+            }
+          }
+        ]
+      },
+      "localizations": {
+        "data": [
+          {
+            "id": 2,
+            "attributes": {
+              "image_url": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+              "createdAt": "2023-11-30T12:22:21.253Z",
+              "updatedAt": "2023-12-05T18:17:07.805Z",
+              "publishedAt": "2023-11-30T12:22:24.251Z",
+              "locale": "en"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "meta": {}
+}

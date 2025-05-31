@@ -1,0 +1,33 @@
+{
+  "data": {
+    "id": 3,
+    "attributes": {
+      "portfolio_opis": "portfolio as PDF document",
+      "portfolio_url": "https://drive.google.com/file/d/1YkRG3DI2W4EiO1QkBoq-mUuR1anRMQOe/view?usp=sharing",
+      "email": "cichosz.patrycja@gmail.com",
+      "instagram": "@triangularvomit",
+      "createdAt": "2023-11-25T21:45:46.887Z",
+      "updatedAt": "2024-09-03T16:12:12.624Z",
+      "publishedAt": "2023-11-25T21:45:49.969Z",
+      "locale": "en",
+      "localizations": {
+        "data": [
+          {
+            "id": 2,
+            "attributes": {
+              "portfolio_opis": "portfolio w formie dokumentu PDF",
+              "portfolio_url": "https://drive.google.com/file/d/1YkRG3DI2W4EiO1QkBoq-mUuR1anRMQOe/view?usp=sharing",
+              "email": "cichosz.patrycja@gmail.com",
+              "instagram": "@triangularvomit",
+              "createdAt": "2023-11-13T16:29:23.547Z",
+              "updatedAt": "2024-09-03T16:12:12.616Z",
+              "publishedAt": "2023-11-25T21:56:58.866Z",
+              "locale": "pl"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "meta": {}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1,
+  "attributes": {
+    "tytul": "Pytają, a ja płaczę rzewniej",
+    "data": "23-29.04.22",
+    "lokalizacja": "Galeria Przyszła Niedoszła, Warszawa",
+    "createdAt": "2023-12-07T20:36:24.027Z",
+    "updatedAt": "2023-12-08T07:26:24.031Z",
+    "publishedAt": "2023-12-07T20:36:48.951Z",
+    "locale": "pl",
+    "obrazy": {
+      "data": [
+        {
+          "id": 5,
+          "attributes": {
+            "tytul": "horizontal",
+            "image_url": "https://www.shutterstock.com/shutterstock/photos/2118007748/display_1500/stock-photo-art-watercolor-and-acrylic-smear-blot-interior-painting-abstract-texture-color-stain-horizontal-2118007748.jpg",
+            "createdAt": "2023-12-08T07:25:43.887Z",
+            "updatedAt": "2024-09-03T16:25:40.391Z",
+            "publishedAt": "2023-12-08T07:25:44.929Z",
+            "locale": "pl",
+            "wysokosc": null
+          }
+        },
+        {
+          "id": 1,
+          "attributes": {
+            "tytul": "Tytuł obrazu",
+            "image_url": "https://junaveestudio.com/wp-content/uploads/2020/05/painting1.jpg",
+            "createdAt": "2023-11-29T18:42:04.340Z",
+            "updatedAt": "2023-11-30T11:28:22.136Z",
+            "publishedAt": "2023-11-29T18:42:05.241Z",
+            "locale": "pl",
+            "wysokosc": null
+          }
+        },
+        {
+          "id": 3,
+          "attributes": {
+            "tytul": "a coś tam",
+            "image_url": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQAQ7Jly3B3QSC59rTu7DHyNKrSDm8qeau_KARIre4xtE8iLv6VzHmJxjNwGXOfVZFamoyKw-y-Yj2cZNVR15M",
+            "createdAt": "2023-12-07T21:04:24.045Z",
+            "updatedAt": "2023-12-07T21:04:54.659Z",
+            "publishedAt": "2023-12-07T21:04:29.996Z",
+            "locale": "pl",
+            "wysokosc": null
+          }
+        }
+      ]
+    },
+    "url": {
+      "data": {
+        "id": 1,
+        "attributes": {
+          "url": "pytaja-a-ja-placze",
+          "tytul": "Pytają, a ja płaczę rzewniej",
+          "createdAt": "2023-12-05T18:16:12.948Z",
+          "updatedAt": "2023-12-05T18:16:40.946Z",
+          "publishedAt": "2023-12-05T18:16:40.941Z",
+          "locale": "pl"
+        }
+      }
+    },
+    "localizations": {
+      "data": [
+        {
+          "id": 2,
+          "attributes": {
+            "tytul": "They ask, and I cry louder",
+            "data": "23-29.04.22",
+            "lokalizacja": "Future Unfuture Gallery, Warsaw",
+            "createdAt": "2023-12-07T20:37:16.352Z",
+            "updatedAt": "2023-12-08T07:26:23.992Z",
+            "publishedAt": "2023-12-07T20:38:23.312Z",
+            "locale": "en"
+          }
+        }
+      ]
+    }
+  }
+}

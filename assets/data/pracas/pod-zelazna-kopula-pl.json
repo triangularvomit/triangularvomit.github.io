@@ -1,0 +1,105 @@
+{
+  "id": 1,
+  "attributes": {
+    "tytul": "Pod Żelazną Kopułą",
+    "podtytul": " ",
+    "opis": "Cykl jako punkt wyjścia stawia wyobrażenia \ni czyny, podejmowane \nw momencie kryzysu \ni wątpliwości. Mnogość mikrohistorii, która powstaje \nw trakcie, ujawnia niezwykłą różnorodność owych «strategii». To, co dla nich wspólne, to uwikłanie w kontekst społeczny \ni szersze procesy, rozgrywające się wobec Żelaznej Kopuły – alegorycznie ujętej neoliberalnej konstrukcji społecznej, służącej niewielkiej grupie osób z Globalnej Północy. \nSeria traktuje o odruchach, nie zawsze racjonalnych; ryzykownych decyzjach, śmiałych wyobrażeniach i ich konsekwencjach, tajnych \n(lub nie) zgromadzeniach i spiskach; w końcu \no wszelkich próbach, aby obecny porządek naruszyć.",
+    "createdAt": "2023-11-19T22:00:19.612Z",
+    "updatedAt": "2025-05-28T18:58:41.744Z",
+    "publishedAt": "2023-11-29T18:07:52.394Z",
+    "locale": "pl",
+    "obrazy": {
+      "data": [
+        {
+          "id": 9,
+          "attributes": {
+            "tytul": "Beton w basenie",
+            "image_url": "https://raw.githubusercontent.com/triangularvomit/obrazy/refs/heads/main/Patrycja%20Cichosz%20BETON%20W%20BASENIE_DRANED%20POOL%202024_2000.jpg",
+            "createdAt": "2025-05-28T17:33:32.751Z",
+            "updatedAt": "2025-05-28T17:33:33.515Z",
+            "publishedAt": "2025-05-28T17:33:33.512Z",
+            "locale": "pl",
+            "wysokosc": 600
+          }
+        },
+        {
+          "id": 11,
+          "attributes": {
+            "tytul": "Maratonkx",
+            "image_url": "https://raw.githubusercontent.com/triangularvomit/obrazy/refs/heads/main/maratonkxFINAL.jpeg",
+            "createdAt": "2025-05-28T18:26:15.106Z",
+            "updatedAt": "2025-05-28T18:26:16.097Z",
+            "publishedAt": "2025-05-28T18:26:16.094Z",
+            "locale": "pl",
+            "wysokosc": 600
+          }
+        },
+        {
+          "id": 8,
+          "attributes": {
+            "tytul": "Dom Kątnika",
+            "image_url": "https://raw.githubusercontent.com/triangularvomit/obrazy/refs/heads/main/Patrycja%20Cichosz%20Dom%20K•tnika_%20House%20of%20the%20Domestic%20Spider_2024_MG_2000.jpg",
+            "createdAt": "2025-05-28T17:30:53.166Z",
+            "updatedAt": "2025-05-28T17:31:00.074Z",
+            "publishedAt": "2025-05-28T17:31:00.072Z",
+            "locale": "pl",
+            "wysokosc": 600
+          }
+        },
+        {
+          "id": 7,
+          "attributes": {
+            "tytul": "leisure pen",
+            "image_url": "https://raw.githubusercontent.com/triangularvomit/obrazy/b811b80ea15231843fcf6a35eb05cb6e63f07be6/leisurepen_FINAL.jpeg",
+            "createdAt": "2024-09-03T16:40:34.847Z",
+            "updatedAt": "2025-05-28T18:23:21.177Z",
+            "publishedAt": "2024-09-03T16:41:10.102Z",
+            "locale": "pl",
+            "wysokosc": 600
+          }
+        },
+        {
+          "id": 12,
+          "attributes": {
+            "tytul": "Dymy i lustra",
+            "image_url": "https://raw.githubusercontent.com/triangularvomit/obrazy/refs/heads/main/dymy_lustra_2.jpg",
+            "createdAt": "2025-05-28T18:40:20.695Z",
+            "updatedAt": "2025-05-28T18:40:45.010Z",
+            "publishedAt": "2025-05-28T18:40:45.008Z",
+            "locale": "pl",
+            "wysokosc": 600
+          }
+        }
+      ]
+    },
+    "url": {
+      "data": {
+        "id": 1,
+        "attributes": {
+          "url": "pod-zelazna-kopula",
+          "createdAt": "2023-11-28T17:42:10.675Z",
+          "updatedAt": "2025-05-28T18:16:08.701Z",
+          "publishedAt": "2023-11-28T17:43:24.431Z",
+          "locale": "pl",
+          "tytul": "Pod Żelazną Kopułą"
+        }
+      }
+    },
+    "localizations": {
+      "data": [
+        {
+          "id": 2,
+          "attributes": {
+            "tytul": "Survivign strategies",
+            "podtytul": "(cycle in progress)",
+            "opis": "I am currently working on a series of paintings on various ways and methods of imaging in times of crisis, hesitation and doubt. These are ways of escaping, entangling and paradoxically, at times, deepening the crisis, but also of affirming, recognizing the state of the here and now, looking at one's position. Ultimately, these strategies are meant to rebuild/rebuild, regenerate and thus continue the struggle in different ways.",
+            "createdAt": "2023-11-30T11:27:00.707Z",
+            "updatedAt": "2023-11-30T11:31:20.794Z",
+            "publishedAt": "2023-11-30T11:29:43.483Z",
+            "locale": "en"
+          }
+        }
+      ]
+    }
+  }
+}

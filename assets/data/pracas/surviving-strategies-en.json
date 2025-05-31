@@ -1,0 +1,57 @@
+{
+  "id": 2,
+  "attributes": {
+    "tytul": "Survivign strategies",
+    "podtytul": "(cycle in progress)",
+    "opis": "I am currently working on a series of paintings on various ways and methods of imaging in times of crisis, hesitation and doubt. These are ways of escaping, entangling and paradoxically, at times, deepening the crisis, but also of affirming, recognizing the state of the here and now, looking at one's position. Ultimately, these strategies are meant to rebuild/rebuild, regenerate and thus continue the struggle in different ways.",
+    "createdAt": "2023-11-30T11:27:00.707Z",
+    "updatedAt": "2023-11-30T11:31:20.794Z",
+    "publishedAt": "2023-11-30T11:29:43.483Z",
+    "locale": "en",
+    "obrazy": {
+      "data": [
+        {
+          "id": 2,
+          "attributes": {
+            "tytul": "Surviving strategies",
+            "image_url": "https://junaveestudio.com/wp-content/uploads/2020/05/painting1.jpg",
+            "createdAt": "2023-11-30T11:28:21.090Z",
+            "updatedAt": "2023-11-30T11:28:22.108Z",
+            "publishedAt": "2023-11-30T11:28:22.101Z",
+            "locale": "en",
+            "wysokosc": null
+          }
+        }
+      ]
+    },
+    "url": {
+      "data": {
+        "id": 2,
+        "attributes": {
+          "url": "surviving-strategies",
+          "createdAt": "2023-11-28T17:42:32.029Z",
+          "updatedAt": "2023-12-04T19:34:32.714Z",
+          "publishedAt": "2023-11-28T17:42:33.936Z",
+          "locale": "en",
+          "tytul": "Surviving strategies"
+        }
+      }
+    },
+    "localizations": {
+      "data": [
+        {
+          "id": 1,
+          "attributes": {
+            "tytul": "Pod Żelazną Kopułą",
+            "podtytul": " ",
+            "opis": "Cykl jako punkt wyjścia stawia wyobrażenia \ni czyny, podejmowane \nw momencie kryzysu \ni wątpliwości. Mnogość mikrohistorii, która powstaje \nw trakcie, ujawnia niezwykłą różnorodność owych «strategii». To, co dla nich wspólne, to uwikłanie w kontekst społeczny \ni szersze procesy, rozgrywające się wobec Żelaznej Kopuły – alegorycznie ujętej neoliberalnej konstrukcji społecznej, służącej niewielkiej grupie osób z Globalnej Północy. \nSeria traktuje o odruchach, nie zawsze racjonalnych; ryzykownych decyzjach, śmiałych wyobrażeniach i ich konsekwencjach, tajnych \n(lub nie) zgromadzeniach i spiskach; w końcu \no wszelkich próbach, aby obecny porządek naruszyć.",
+            "createdAt": "2023-11-19T22:00:19.612Z",
+            "updatedAt": "2025-05-28T18:58:41.744Z",
+            "publishedAt": "2023-11-29T18:07:52.394Z",
+            "locale": "pl"
+          }
+        }
+      ]
+    }
+  }
+}

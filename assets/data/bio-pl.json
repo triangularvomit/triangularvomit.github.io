@@ -1,0 +1,280 @@
+{
+  "data": {
+    "id": 1,
+    "attributes": {
+      "Zdjecie_url": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+      "wstep": "Artystka i robotnica sztuki, działająca głównie w obszarze malarstwa, równocześnie angażująca się w działalność prospołeczną.\nUrodzona w 1995 roku w Głownie; mieszka i pracuje w Gdańsku. \nTo, co tworzy, oscyluje wokół tematu doświadczania opresji, oraz czynnego oporu wobec niej.\n",
+      "createdAt": "2023-11-13T21:06:57.010Z",
+      "updatedAt": "2025-05-28T16:07:00.433Z",
+      "publishedAt": "2023-11-19T22:18:26.468Z",
+      "locale": "pl",
+      "bio_segments": {
+        "data": [
+          {
+            "id": 3,
+            "attributes": {
+              "Tytul_segmentu": "Edukacja",
+              "Data_od": "2015 –",
+              "Data_do": "2020",
+              "Opis": "magistra sztuki, Akademia Sztuk Pięknych w Gdańsku,  Wydział Malarstwa. Dyplom w pracowni prowadzonej przez  prof. ASP dra hab. Krzysztofa Polkowskiego.",
+              "createdAt": "2023-11-13T20:56:51.893Z",
+              "updatedAt": "2024-09-07T22:42:24.576Z",
+              "publishedAt": "2023-11-25T15:00:26.510Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 7,
+            "attributes": {
+              "Tytul_segmentu": "Wystawy indywidualne",
+              "Data_od": "2024",
+              "Data_do": null,
+              "Opis": "\"Maratonka\", wystawa indywidualna, Galeria Spirala, Kraków",
+              "createdAt": "2024-08-25T18:39:50.858Z",
+              "updatedAt": "2024-10-02T23:53:11.383Z",
+              "publishedAt": "2024-08-25T18:39:52.661Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 33,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2024",
+              "Data_do": null,
+              "Opis": "TŁO/BOHATER, wystawa w duecie z Zuzą Zawłocką, Galeria AOKZ, Łódź",
+              "createdAt": "2025-05-28T15:55:12.523Z",
+              "updatedAt": "2025-05-28T15:56:47.168Z",
+              "publishedAt": "2025-05-28T15:56:47.166Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 15,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2020",
+              "Data_do": null,
+              "Opis": "\"Pytają a ja płaczę rzewniej\", Trafostacja Sztuki, Szczecin;  osoby kuratorskie: Daria Grabowska, Andrzej Witczak",
+              "createdAt": "2024-09-07T22:55:33.789Z",
+              "updatedAt": "2024-10-02T23:48:02.052Z",
+              "publishedAt": "2024-09-07T22:55:34.653Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 10,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2019",
+              "Data_do": null,
+              "Opis": "\"Kasandry\", WL–4 Mleczny Piotr, Gdańsk;  koordynacja: Magdalena Pela",
+              "createdAt": "2024-09-07T21:32:41.712Z",
+              "updatedAt": "2024-10-02T23:44:00.786Z",
+              "publishedAt": "2024-09-07T21:32:43.006Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 36,
+            "attributes": {
+              "Tytul_segmentu": "Wystawy zbiorowe",
+              "Data_od": "2025",
+              "Data_do": null,
+              "Opis": "Buda dla Azora, mamy i mnie, w ramach działalności Kolektywu Basta, Obrońców Stalingradu 17, Szczecin",
+              "createdAt": "2025-05-28T16:04:46.197Z",
+              "updatedAt": "2025-05-28T16:06:03.808Z",
+              "publishedAt": "2025-05-28T16:06:03.806Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 35,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2025",
+              "Data_do": null,
+              "Opis": "HOMO CAT/AI – pragmatyzm/wiara, Galeria AOKZ, Giełda Papierów Wartościowych w Warszawie",
+              "createdAt": "2025-05-28T16:01:39.538Z",
+              "updatedAt": "2025-05-28T16:01:41.394Z",
+              "publishedAt": "2025-05-28T16:01:41.393Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 34,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2024",
+              "Data_do": null,
+              "Opis": "12. Wystawa Kuratorska Bielskiej Jesieni Don’t hate the player, hate the game, Galeria Bielska BWA",
+              "createdAt": "2025-05-28T16:00:03.919Z",
+              "updatedAt": "2025-05-28T16:00:08.589Z",
+              "publishedAt": "2025-05-28T16:00:08.587Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 12,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2023",
+              "Data_do": null,
+              "Opis": "\"50 000 godzin zapierdolu\", w ramach działalności Kolektywu Basta, Galeria La Małpa, Gdańsk",
+              "createdAt": "2024-09-07T22:43:23.024Z",
+              "updatedAt": "2024-10-02T23:51:01.808Z",
+              "publishedAt": "2024-09-07T22:43:23.799Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 11,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2023",
+              "Data_do": null,
+              "Opis": "wystawa finałowa 46. Edycji Biennale Malarstwa \"Bielska Jesień\", Galeria Bielska BWA",
+              "createdAt": "2024-09-07T22:41:18.296Z",
+              "updatedAt": "2025-05-28T16:05:15.664Z",
+              "publishedAt": "2024-09-07T22:41:38.248Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 13,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2023",
+              "Data_do": null,
+              "Opis": "\"Crash Club x Pawilon Bar\", w ramach Warsaw Gallery Weekend, Pawilon Bliska 12, Warszawa",
+              "createdAt": "2024-09-07T22:48:14.224Z",
+              "updatedAt": "2024-10-02T23:45:29.297Z",
+              "publishedAt": "2024-09-07T22:48:14.944Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 14,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2023",
+              "Data_do": null,
+              "Opis": "7. Gdańskie Biennale Sztuki, Gdańska Galeria Miejska, Gdańsk",
+              "createdAt": "2024-09-07T22:49:12.631Z",
+              "updatedAt": "2024-10-02T23:46:58.257Z",
+              "publishedAt": "2024-09-07T22:49:13.257Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 16,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2022",
+              "Data_do": null,
+              "Opis": "DWA SŁOWA/TWO WORDS/ДBA CЛOBA/*** *****, w ramach działalności\nKolektywu Basta, Galeria Przyszła Niedoszła, Warszawa",
+              "createdAt": "2024-10-02T23:31:17.043Z",
+              "updatedAt": "2024-10-02T23:46:18.340Z",
+              "publishedAt": "2024-10-02T23:31:19.021Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 17,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2022",
+              "Data_do": null,
+              "Opis": "Młode Malarstwo z Gdańska. Dyplomy 2019–2021, Zbrojownia Sztuki, Gdańsk",
+              "createdAt": "2024-10-02T23:33:35.454Z",
+              "updatedAt": "2024-10-02T23:48:51.044Z",
+              "publishedAt": "2024-10-02T23:33:37.405Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 18,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2021",
+              "Data_do": null,
+              "Opis": "ODKSZTAŁCENIE / ДЭФАРМАЦЫЯ / UNLEARNING, DOMIE, Poznań",
+              "createdAt": "2024-10-02T23:36:39.094Z",
+              "updatedAt": "2024-10-02T23:49:18.943Z",
+              "publishedAt": "2024-10-02T23:36:40.172Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 19,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2021",
+              "Data_do": null,
+              "Opis": "Nie będzie niczego, z inicjatywy Galerii Luka oraz Wydawnictwa Bomba, Scena Robocza, Poznań",
+              "createdAt": "2024-10-02T23:39:11.062Z",
+              "updatedAt": "2024-10-02T23:50:08.406Z",
+              "publishedAt": "2024-10-02T23:39:11.812Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 20,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2020",
+              "Data_do": null,
+              "Opis": "9. Triennale Młodych w Orońsku PÓKI MY ŻYJEMY, Centrum Rzeźby Polskiej, Orońsko",
+              "createdAt": "2024-10-02T23:40:11.152Z",
+              "updatedAt": "2024-10-02T23:51:56.072Z",
+              "publishedAt": "2024-10-02T23:40:11.844Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 4,
+            "attributes": {
+              "Tytul_segmentu": "Nagrody, nominacje, stypendia",
+              "Data_od": "2015 –",
+              "Data_do": "2020",
+              "Opis": "stypendium Fundacji Jolanty i Leszka Czarneckich",
+              "createdAt": "2023-11-25T15:05:17.441Z",
+              "updatedAt": "2024-09-03T16:00:32.861Z",
+              "publishedAt": "2023-11-25T15:05:18.499Z",
+              "locale": "pl"
+            }
+          },
+          {
+            "id": 8,
+            "attributes": {
+              "Tytul_segmentu": null,
+              "Data_od": "2024",
+              "Data_do": null,
+              "Opis": "Stypendium Kulturalne Miasta Gdańska dla osób fizycznych \"FUNDUSZ TWÓRCZY\"",
+              "createdAt": "2024-09-03T16:02:44.036Z",
+              "updatedAt": "2024-09-03T16:08:43.560Z",
+              "publishedAt": "2024-09-03T16:03:19.370Z",
+              "locale": "pl"
+            }
+          }
+        ]
+      },
+      "localizations": {
+        "data": [
+          {
+            "id": 4,
+            "attributes": {
+              "Zdjecie_url": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg",
+              "wstep": "Artist and art worker, active mainly in the field of painting, while engaging in pro-social activities. \nBorn in 1995 in Głowno; lives and works in Gdansk. What she creates oscillates around the theme of experiencing oppression, and active resistance to it.",
+              "createdAt": "2023-11-19T22:26:38.403Z",
+              "updatedAt": "2025-05-28T16:07:00.441Z",
+              "publishedAt": "2023-11-19T22:26:40.629Z",
+              "locale": "en"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "meta": {}
+}
