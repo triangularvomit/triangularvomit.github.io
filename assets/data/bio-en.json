@@ -5,7 +5,7 @@
       "Zdjecie_url": "https://raw.githubusercontent.com/triangularvomit/portfolio-pliki/refs/heads/main/patrycja_cichosz_photo.jpg",
       "wstep": "Artist and art worker, active mainly in the field of painting, while engaging in pro-social activities. \nBorn in 1995 in Głowno; lives and works in Gdansk. What she creates oscillates around the theme of experiencing oppression, and active resistance to it.",
       "createdAt": "2023-11-19T22:26:38.403Z",
-      "updatedAt": "2025-05-31T20:00:30.619Z",
+      "updatedAt": "2025-06-02T12:28:18.257Z",
       "publishedAt": "2023-11-19T22:26:40.629Z",
       "locale": "en",
       "bio_segments": {
@@ -18,7 +18,7 @@
               "Data_do": "2020",
               "Opis": "Master of Arts, Academy of Fine Arts in Gdansk, Faculty of Painting. Diploma in the atelier led by Prof. ASP Dr. Krzysztof Polkowski.",
               "createdAt": "2023-11-25T16:31:20.391Z",
-              "updatedAt": "2024-09-07T22:42:24.582Z",
+              "updatedAt": "2025-06-02T12:15:15.466Z",
               "publishedAt": "2023-11-25T16:31:21.409Z",
               "locale": "en"
             }
@@ -57,9 +57,9 @@
             "id": 1,
             "attributes": {
               "Zdjecie_url": "https://raw.githubusercontent.com/triangularvomit/portfolio-pliki/refs/heads/main/patrycja_cichosz_photo.jpg",
-              "wstep": "Artystka i robotnica sztuki, działająca głównie w obszarze malarstwa, równocześnie angażująca się w działalność prospołeczną.\nUrodzona w 1995 roku w Głownie; mieszka i pracuje w Gdańsku. \nTo, co tworzy, oscyluje wokół tematu doświadczania opresji, oraz czynnego oporu wobec niej.\n",
+              "wstep": "Artystka i robotnica sztuki, działająca głównie w obszarze malarstwa, równocześnie angażująca się w działalność prospołeczną.\nUrodzona w 1995 roku w Głownie; mieszka i pracuje w Gdańsku. \nTo, co tworzy, oscyluje wokół tematu doświadczania opresji, <br>oraz czynnego oporu wobec niej.\n",
               "createdAt": "2023-11-13T21:06:57.010Z",
-              "updatedAt": "2025-05-31T20:00:30.613Z",
+              "updatedAt": "2025-06-02T12:28:18.249Z",
               "publishedAt": "2023-11-19T22:18:26.468Z",
               "locale": "pl"
             }

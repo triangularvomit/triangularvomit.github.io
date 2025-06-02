@@ -2,48 +2,48 @@
   "id": 1,
   "attributes": {
     "tytul": "Pytają, a ja płaczę rzewniej",
-    "data": "23-29.04.22",
-    "lokalizacja": "Galeria Przyszła Niedoszła, Warszawa",
+    "data": "22.10–22.11.20",
+    "lokalizacja": "Trafostacja Sztuki, Szczecin ",
     "createdAt": "2023-12-07T20:36:24.027Z",
-    "updatedAt": "2023-12-08T07:26:24.031Z",
+    "updatedAt": "2025-06-02T12:37:46.864Z",
     "publishedAt": "2023-12-07T20:36:48.951Z",
     "locale": "pl",
     "obrazy": {
       "data": [
         {
-          "id": 5,
+          "id": 13,
           "attributes": {
-            "tytul": "horizontal",
-            "image_url": "https://www.shutterstock.com/shutterstock/photos/2118007748/display_1500/stock-photo-art-watercolor-and-acrylic-smear-blot-interior-painting-abstract-texture-color-stain-horizontal-2118007748.jpg",
-            "createdAt": "2023-12-08T07:25:43.887Z",
-            "updatedAt": "2024-09-03T16:25:40.391Z",
-            "publishedAt": "2023-12-08T07:25:44.929Z",
+            "tytul": "fot. Andrzej Golc",
+            "image_url": "https://raw.githubusercontent.com/triangularvomit/portfolio-pliki/refs/heads/main/_MG_8699.jpg",
+            "createdAt": "2025-06-02T12:24:00.334Z",
+            "updatedAt": "2025-06-02T12:25:03.435Z",
+            "publishedAt": "2025-06-02T12:25:03.433Z",
             "locale": "pl",
-            "wysokosc": null
+            "wysokosc": 600
           }
         },
         {
-          "id": 1,
+          "id": 15,
           "attributes": {
-            "tytul": "Tytuł obrazu",
-            "image_url": "https://junaveestudio.com/wp-content/uploads/2020/05/painting1.jpg",
-            "createdAt": "2023-11-29T18:42:04.340Z",
-            "updatedAt": "2023-11-30T11:28:22.136Z",
-            "publishedAt": "2023-11-29T18:42:05.241Z",
+            "tytul": "fot. Andrzej Golc",
+            "image_url": "https://raw.githubusercontent.com/triangularvomit/portfolio-pliki/refs/heads/main/_MG_8703.jpg",
+            "createdAt": "2025-06-02T12:37:38.438Z",
+            "updatedAt": "2025-06-02T12:38:44.615Z",
+            "publishedAt": "2025-06-02T12:37:49.121Z",
             "locale": "pl",
-            "wysokosc": null
+            "wysokosc": 600
           }
         },
         {
-          "id": 3,
+          "id": 14,
           "attributes": {
-            "tytul": "a coś tam",
-            "image_url": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQAQ7Jly3B3QSC59rTu7DHyNKrSDm8qeau_KARIre4xtE8iLv6VzHmJxjNwGXOfVZFamoyKw-y-Yj2cZNVR15M",
-            "createdAt": "2023-12-07T21:04:24.045Z",
-            "updatedAt": "2023-12-07T21:04:54.659Z",
-            "publishedAt": "2023-12-07T21:04:29.996Z",
+            "tytul": "fot. Andrzej Golc",
+            "image_url": "https://raw.githubusercontent.com/triangularvomit/portfolio-pliki/refs/heads/main/_MG_8698.jpg",
+            "createdAt": "2025-06-02T12:35:51.840Z",
+            "updatedAt": "2025-06-02T12:36:05.169Z",
+            "publishedAt": "2025-06-02T12:36:05.167Z",
             "locale": "pl",
-            "wysokosc": null
+            "wysokosc": 600
           }
         }
       ]
@@ -67,10 +67,10 @@
           "id": 2,
           "attributes": {
             "tytul": "They ask, and I cry louder",
-            "data": "23-29.04.22",
+            "data": "22.10–22.11.20",
             "lokalizacja": "Future Unfuture Gallery, Warsaw",
             "createdAt": "2023-12-07T20:37:16.352Z",
-            "updatedAt": "2023-12-08T07:26:23.992Z",
+            "updatedAt": "2025-06-02T12:37:46.874Z",
             "publishedAt": "2023-12-07T20:38:23.312Z",
             "locale": "en"
           }

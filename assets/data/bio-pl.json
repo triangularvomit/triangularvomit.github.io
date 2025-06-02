@@ -3,35 +3,22 @@
     "id": 1,
     "attributes": {
       "Zdjecie_url": "https://raw.githubusercontent.com/triangularvomit/portfolio-pliki/refs/heads/main/patrycja_cichosz_photo.jpg",
-      "wstep": "Artystka i robotnica sztuki, działająca głównie w obszarze malarstwa, równocześnie angażująca się w działalność prospołeczną.\nUrodzona w 1995 roku w Głownie; mieszka i pracuje w Gdańsku. \nTo, co tworzy, oscyluje wokół tematu doświadczania opresji, oraz czynnego oporu wobec niej.\n",
+      "wstep": "Artystka i robotnica sztuki, działająca głównie w obszarze malarstwa, równocześnie angażująca się w działalność prospołeczną.\nUrodzona w 1995 roku w Głownie; mieszka i pracuje w Gdańsku. \nTo, co tworzy, oscyluje wokół tematu doświadczania opresji, <br>oraz czynnego oporu wobec niej.\n",
       "createdAt": "2023-11-13T21:06:57.010Z",
-      "updatedAt": "2025-05-31T20:00:30.613Z",
+      "updatedAt": "2025-06-02T12:28:18.249Z",
       "publishedAt": "2023-11-19T22:18:26.468Z",
       "locale": "pl",
       "bio_segments": {
         "data": [
-          {
-            "id": 3,
-            "attributes": {
-              "Tytul_segmentu": "Edukacja",
-              "Data_od": "2015 –",
-              "Data_do": "2020",
-              "Opis": "magistra sztuki, Akademia Sztuk Pięknych w Gdańsku,  Wydział Malarstwa. Dyplom w pracowni prowadzonej przez  prof. ASP dra hab. Krzysztofa Polkowskiego.",
-              "createdAt": "2023-11-13T20:56:51.893Z",
-              "updatedAt": "2024-09-07T22:42:24.576Z",
-              "publishedAt": "2023-11-25T15:00:26.510Z",
-              "locale": "pl"
-            }
-          },
           {
             "id": 7,
             "attributes": {
               "Tytul_segmentu": "Wystawy indywidualne",
               "Data_od": "2024",
               "Data_do": null,
-              "Opis": "\"Maratonka\", wystawa indywidualna, Galeria Spirala, Kraków",
+              "Opis": "<i>Maratonka</i>, wystawa indywidualna, Galeria Spirala, Kraków",
               "createdAt": "2024-08-25T18:39:50.858Z",
-              "updatedAt": "2024-10-02T23:53:11.383Z",
+              "updatedAt": "2025-06-02T12:10:58.856Z",
               "publishedAt": "2024-08-25T18:39:52.661Z",
               "locale": "pl"
             }
@@ -42,9 +29,9 @@
               "Tytul_segmentu": null,
               "Data_od": "2024",
               "Data_do": null,
-              "Opis": "TŁO/BOHATER, wystawa w duecie z Zuzą Zawłocką, Galeria AOKZ, Łódź",
+              "Opis": "<i>TŁO/BOHATER</i>, wystawa w duecie z Zuzą Zawłocką, Galeria AOKZ, Łódź",
               "createdAt": "2025-05-28T15:55:12.523Z",
-              "updatedAt": "2025-05-28T15:56:47.168Z",
+              "updatedAt": "2025-06-02T12:16:14.442Z",
               "publishedAt": "2025-05-28T15:56:47.166Z",
               "locale": "pl"
             }
@@ -55,9 +42,9 @@
               "Tytul_segmentu": null,
               "Data_od": "2020",
               "Data_do": null,
-              "Opis": "\"Pytają a ja płaczę rzewniej\", Trafostacja Sztuki, Szczecin;  osoby kuratorskie: Daria Grabowska, Andrzej Witczak",
+              "Opis": "<i>Pytają a ja płaczę rzewniej</i>, Trafostacja Sztuki, Szczecin",
               "createdAt": "2024-09-07T22:55:33.789Z",
-              "updatedAt": "2024-10-02T23:48:02.052Z",
+              "updatedAt": "2025-06-02T12:16:41.363Z",
               "publishedAt": "2024-09-07T22:55:34.653Z",
               "locale": "pl"
             }
@@ -68,9 +55,9 @@
               "Tytul_segmentu": null,
               "Data_od": "2019",
               "Data_do": null,
-              "Opis": "\"Kasandry\", WL–4 Mleczny Piotr, Gdańsk;  koordynacja: Magdalena Pela",
+              "Opis": "<i>Kasandry</i>, WL–4 Mleczny Piotr, Gdańsk",
               "createdAt": "2024-09-07T21:32:41.712Z",
-              "updatedAt": "2024-10-02T23:44:00.786Z",
+              "updatedAt": "2025-06-02T12:17:04.191Z",
               "publishedAt": "2024-09-07T21:32:43.006Z",
               "locale": "pl"
             }
@@ -256,6 +243,19 @@
               "publishedAt": "2024-09-03T16:03:19.370Z",
               "locale": "pl"
             }
+          },
+          {
+            "id": 3,
+            "attributes": {
+              "Tytul_segmentu": "Edukacja",
+              "Data_od": "2015 –",
+              "Data_do": "2020",
+              "Opis": "magistra sztuki<br>Akademia Sztuk Pięknych w Gdańsku,  Wydział Malarstwa <br>Dyplom w pracowni prowadzonej przez  prof. ASP dra hab. Krzysztofa Polkowskiego",
+              "createdAt": "2023-11-13T20:56:51.893Z",
+              "updatedAt": "2025-06-02T12:15:15.459Z",
+              "publishedAt": "2023-11-25T15:00:26.510Z",
+              "locale": "pl"
+            }
           }
         ]
       },
@@ -267,7 +267,7 @@
               "Zdjecie_url": "https://raw.githubusercontent.com/triangularvomit/portfolio-pliki/refs/heads/main/patrycja_cichosz_photo.jpg",
               "wstep": "Artist and art worker, active mainly in the field of painting, while engaging in pro-social activities. \nBorn in 1995 in Głowno; lives and works in Gdansk. What she creates oscillates around the theme of experiencing oppression, and active resistance to it.",
               "createdAt": "2023-11-19T22:26:38.403Z",
-              "updatedAt": "2025-05-31T20:00:30.619Z",
+              "updatedAt": "2025-06-02T12:28:18.257Z",
               "publishedAt": "2023-11-19T22:26:40.629Z",
               "locale": "en"
             }

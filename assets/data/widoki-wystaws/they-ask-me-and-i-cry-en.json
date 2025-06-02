@@ -2,10 +2,10 @@
   "id": 2,
   "attributes": {
     "tytul": "They ask, and I cry louder",
-    "data": "23-29.04.22",
+    "data": "22.10–22.11.20",
     "lokalizacja": "Future Unfuture Gallery, Warsaw",
     "createdAt": "2023-12-07T20:37:16.352Z",
-    "updatedAt": "2023-12-08T07:26:23.992Z",
+    "updatedAt": "2025-06-02T12:37:46.874Z",
     "publishedAt": "2023-12-07T20:38:23.312Z",
     "locale": "en",
     "obrazy": {
@@ -67,10 +67,10 @@
           "id": 1,
           "attributes": {
             "tytul": "Pytają, a ja płaczę rzewniej",
-            "data": "23-29.04.22",
-            "lokalizacja": "Galeria Przyszła Niedoszła, Warszawa",
+            "data": "22.10–22.11.20",
+            "lokalizacja": "Trafostacja Sztuki, Szczecin ",
             "createdAt": "2023-12-07T20:36:24.027Z",
-            "updatedAt": "2023-12-08T07:26:24.031Z",
+            "updatedAt": "2025-06-02T12:37:46.864Z",
             "publishedAt": "2023-12-07T20:36:48.951Z",
             "locale": "pl"
           }
